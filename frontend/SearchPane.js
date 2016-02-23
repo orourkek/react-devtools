@@ -164,16 +164,19 @@ var styles = {
     flex: 1,
     fontSize: '18px',
     padding: '5px 10px',
+    backgroundColor: '#242424',
+    color: '#666666',
     border: 'none',
     transition: 'border-top-color .2s ease, background-color .2s ease',
-    borderTop: '1px solid #ccc',
-    borderTopColor: '#ccc',
+    borderTop: '1px solid #3D3D3D',
+    borderTopColor: '#3D3D3D',
     outline: 'none',
   },
 
   highlightedInput: {
-    borderTopColor: 'aqua',
-    backgroundColor: '#EEFFFE',
+    borderTopColor: 'rgb(242, 151, 102)',
+    backgroundColor: '#242424',
+    color: 'white',
   },
 };
 

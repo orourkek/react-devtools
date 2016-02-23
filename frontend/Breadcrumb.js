@@ -48,8 +48,8 @@ class Breadcrumb extends React.Component {
 
 var styles = {
   container: {
-    borderTop: '1px solid #ccc',
-    backgroundColor: 'white',
+    borderTop: '1px solid #3D3D3D',
+    backgroundColor: '#242424',
     listStyle: 'none',
     padding: 0,
     margin: 0,
@@ -62,11 +62,11 @@ var styles = {
   },
 
   composite: {
-    color: 'rgb(136, 18, 128)',
+    color: 'rgb(242, 151, 102)',
   },
 
   item: {
-    padding: '3px 7px',
+    padding: '7px',
     cursor: 'pointer',
     display: 'inline-block',
   },

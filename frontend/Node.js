@@ -324,7 +324,7 @@ var styles = {
   },
 
   customTagName: {
-    color: 'rgb(136, 18, 128)',
+    color: 'rgb(242, 151, 102)',
   },
 
   openTag: {
@@ -336,7 +336,7 @@ var styles = {
   },
 
   headSelect: {
-    backgroundColor: '#ccc',
+    backgroundColor: 'rgba(255,255,255,.15)',
   },
 
   collapser: {
@@ -369,7 +369,7 @@ var styles = {
   },
 
   headHover: {
-    backgroundColor: '#eee',
+    backgroundColor: 'rgba(255,255,255,.075)',
   },
 };
 

@@ -103,6 +103,7 @@ var styles = {
     display: 'flex',
     flexDirection: 'column',
     minHeight: 0,
+    color: 'rgb(120, 120, 120)',
 
     WebkitUserSelect: 'none',
     MozUserSelect: 'none',

@@ -51,7 +51,7 @@ var styles = {
   headerName: {
     flex: 1,
     fontSize: 16,
-    color: 'rgb(184, 0, 161)',
+    color: 'rgb(242, 151, 102)',
 
     cursor: 'text',
     WebkitUserSelect: 'text',

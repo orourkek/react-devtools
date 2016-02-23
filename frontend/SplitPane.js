@@ -90,11 +90,13 @@ var styles = {
 
   draggerInner: {
     backgroundColor: '#ccc',
+    backgroundColor: '#242424',
     height: '100%',
     width: 1,
   },
 
   rightPane: {
+    color: '#CCCCCC',
     display: 'flex',
     marginLeft: -3,
   },

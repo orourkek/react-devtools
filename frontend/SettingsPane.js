@@ -26,7 +26,9 @@ class SettingsPane extends React.Component {
 
 var styles = {
   container: {
-    backgroundColor: '#efefef',
+    backgroundColor: '#2A2A2A',
+    borderBottom: '1px solid #3D3D3D',
+    color: '#CCC',
     padding: '2px 4px',
     display: 'flex',
     flexShrink: 0,

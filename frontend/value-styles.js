@@ -20,15 +20,15 @@ module.exports = {
   },
 
   object: {
-    color: '#666',
+    color: 'rgb(53, 212, 199)',
   },
 
   array: {
-    color: '#666',
+    color: 'rgb(53, 212, 199)',
   },
 
   symbol: {
-    color: '#22a',
+    color: 'rgb(53, 212, 199)',
   },
 
   number: {
@@ -36,7 +36,7 @@ module.exports = {
   },
 
   string: {
-    color: '#22a',
+    color: 'rgb(93, 176, 215)',
     wordBreak: 'break-word',
   },
 
